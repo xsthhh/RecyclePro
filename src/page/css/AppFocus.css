@@ -1,0 +1,9 @@
+#app-focus, #app-download {
+    height: 550px;
+	width: 80%;
+}
+.sub-name-appfocus {
+    width: 100px;
+	color: black;
+	border-bottom: 3px solid #008489;
+}

@@ -1,0 +1,17 @@
+#test-participation {
+    height: 550px;
+	width: 80%;
+}
+.sub-name-knowledge {
+    width: 90px;
+	color: black;
+	border-bottom: 3px solid #008489;
+}
+.knowledge-per{
+    font-size: 28px;
+    font-weight: 900;
+    color: black;
+    margin-left: 20%;
+    margin-top: 6%;
+    font-family: "微软雅黑";
+}

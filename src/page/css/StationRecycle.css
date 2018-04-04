@@ -1,0 +1,9 @@
+#unsort-sort-chart {
+    height: 550px;
+	width: 80%;
+}
+.sub-name-station {
+    width: 120px;
+	color: black;
+	border-bottom: 3px solid #008489;
+}

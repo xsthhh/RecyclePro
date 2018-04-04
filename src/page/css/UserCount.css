@@ -1,0 +1,152 @@
+#user-variation-chart{
+	height: 550px;
+	width: 80%;
+}
+.sub-name {
+	width: 75px;
+	color: black;
+	border-bottom: 3px solid #008489;
+}
+.title-container {
+	margin-top:20px;
+	display: flex;
+	flex-direction: row;
+}
+.count-name {
+	font-weight: 900;
+    color: black;
+}
+.count-time {
+	margin-left: 100px;
+}
+.chart-container {
+	margin-top: 10px;
+	border: 1px solid #bbbbbb;
+	width: 95%;
+	height: 200px;
+	display: flex;
+	flex-direction: row;
+}
+.chart-container .ant-row {
+	height: 100% !important;
+}
+.departline {
+	margin-top: 2%;
+	width: 1px;
+	height: 80%;
+	background: #bbbbbb;
+}
+.count-left,.count-right {
+	width: 49%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+.chart-name {
+	color: black;
+	margin-left: 40%;
+	margin-top: 1%;
+}
+.legend {
+	width: 30%;
+	display: flex;
+	flex-direction: column;
+}
+.red-part, .blue-part, .childchart-container {
+	display: flex;
+	flex-direction: row;
+}
+.red-bar, .blue-bar {
+	margin: 0px 5px 10px 25px;
+	width: 40px;
+	height: 18px;
+	background-color: #c23531;
+	border-radius: 3px;
+}
+.blue-bar {
+	background-color: #2f4554;
+}
+.num-people {
+	font-size: 20px;
+	font-weight: 900;
+	font-family: "微软雅黑";
+	color: black;
+	margin-left: 100px;
+}
+.num-people::after {
+	font-size: 14px;
+	font-weight: 500;
+	content: "人";
+}
+.mid-chart {
+	width: 45%;
+}
+.chart-for-user {
+	margin-left: 25px;
+	width: 55%;
+}
+.ratio {
+	width: 25%;
+	display: flex;
+	flex-direction: column;
+}
+.rate-for-red, .rate-for-blue {
+	margin-top: 25%;
+	font-size: 22px;
+	font-family: "微软雅黑";
+	font-weight: 900;
+	color: #c23531;
+}
+.rate-for-blue {
+	color: #2f4554;
+}
+.user-variation-container {
+	margin-top: 10px;
+	width: 95%;
+	height: 140px;
+	display: flex;
+	flex-direction: row;
+}
+.user-variation {
+	border: 2px dashed #008489;
+	border-radius: 5px;
+	width: 25%;
+	height: 100%;
+	margin-right: 5%;
+}
+.user-type {
+	margin-top: 3%;
+	width: 70%;
+	height: 25%;
+	text-align: center;
+	margin-left: 15%;
+	font-size: 16px;
+	color: black;
+	border-bottom: 1px solid #008489;
+}
+.user-num, .user-num-down {
+	width: 70%;
+	margin-left: 25%;
+	margin-top: 8%;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	font-size: 34px;
+	color: #e64e1e;
+	font-weight: 900;
+	font-family: "微软雅黑";
+}
+.user-num-down {
+	margin-left: 30%;
+	color: #008489;
+}
+.peo-num {
+	line-height: 60px;
+	padding-left: 15px;
+	font-size: 16px;
+	font-weight: 500;
+	color: black;
+}
+.time-picker {
+	margin-top: -5px;
+}

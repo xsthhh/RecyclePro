@@ -1,0 +1,56 @@
+#stu-participate {
+    height: 550px;
+	width: 80%;
+}
+.sub-name-stu {
+    width: 130px;
+	color: black;
+	border-bottom: 3px solid #008489;
+}
+.stu-num {
+    font-size: 28px;
+    font-weight: 900;
+    color: black;
+    margin-left: 25%;
+    margin-top: 3%;
+    font-family: "微软雅黑";
+}
+.mw-container {
+    margin-left: 2%;
+    display: flex;
+    flex-direction: row;
+    width: 93%;
+}
+.icon-man, .icon-woman {
+    font-size: 34px;
+    font-weight: 900;
+    color: #2f4554;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.icon-man {
+    color:  #c23531 !important;
+    margin-left: 10%;
+}
+.ant-progress-outer {
+    margin-top: 17% !important;
+}
+.ant-progress-bg {
+    background-color: #2f4554 !important;
+}
+.ant-progress-success-bg {
+    background-color: #c23531 !important;
+}
+.stu-num-man, .stu-num-woman {
+    position: absolute;
+    margin-top: 1%;
+}
+.stu-num-man {
+    margin-left: 6%;
+    color: #c23531;
+}
+.stu-num-woman {
+    margin-left: 15%;
+    color: #2f4554;
+}

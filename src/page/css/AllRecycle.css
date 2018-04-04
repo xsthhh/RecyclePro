@@ -1,0 +1,48 @@
+#unsort-weight-chart {
+    height: 450px;
+	width: 75%;
+}
+#sort-weight-chart {
+    /* margin-left: 2%; */
+    margin-top: 10px;
+    height: 500px;
+	width: 75%;
+}
+.sub-name-all {
+    width: 100px;
+	color: black;
+	border-bottom: 3px solid #008489;
+}
+.chart-container-all {
+	margin-top: 10px;
+	border: 1px solid #bbbbbb;
+	width: 95%;
+	height: 150px;
+	display: flex;
+	flex-direction: row;
+}
+.box-container {
+    width: 33%;
+    height: 100%;
+    display: flex;
+	flex-direction: column;
+}
+.departline-all {
+	margin-top: 1.5%;
+	width: 1px;
+	height: 80%;
+	background: #bbbbbb;
+}
+.lasttime-all, .lastdate-all {
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    margin-top: 10%;
+}
+.lastdate-all {
+    margin-top: 10%;
+    font-size: 20px;
+    font-family: "微软雅黑";
+    font-weight: 700;
+}

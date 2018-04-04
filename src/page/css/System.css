@@ -1,0 +1,13 @@
+.system-img {
+    border: 1px solid #999999;
+    border-radius: 100px;
+}
+.for-system {
+    margin-left: -5%;
+}
+.systemname {
+    margin-left: -3%;
+}
+.ant-radio-group {
+    margin-top: 3px !important;
+}

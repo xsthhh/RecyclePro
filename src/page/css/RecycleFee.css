@@ -1,0 +1,17 @@
+#recyclefee-chart {
+    height: 550px;
+	width: 80%;
+}
+.sub-name-recyclefee {
+    width: 120px;
+	color: black;
+	border-bottom: 3px solid #008489;
+}
+.re-fee {
+    font-size: 28px;
+    font-weight: 900;
+    color: black;
+    margin-left: 15%;
+    margin-top: 2%;
+    font-family: "微软雅黑";
+}

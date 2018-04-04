@@ -1,0 +1,25 @@
+#work-percent {
+    height: 400px;
+	width: 80%;
+}
+.bar {
+    margin: 3px 5px 10px 5px;
+	width: 40px;
+	height: 18px;
+	background-color: #749f83;
+	border-radius: 3px;
+}
+.work-top {
+    font-size: 20px;
+    font-weight: 900;
+    margin-left: 30px;
+    color: #ff9800;
+}
+.eduwork-time {
+    margin-top: 2%;
+}
+.title-container-worktype {
+    display: flex;
+    flex-direction: row;
+    margin-left: 3%;
+}

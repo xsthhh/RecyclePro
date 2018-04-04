@@ -1,0 +1,56 @@
+.collector-name {
+    color: #008489;
+    margin-left: 5px;
+}
+.count-name-collect {
+	font-weight: 900;
+    color: black;
+    margin-left: 15px;
+}
+.user-variation-collect {
+	border: 2px dashed #008489;
+	border-radius: 5px;
+	width: 30%;
+    height: 95%;
+    margin-top: 1%;
+    margin-left: 8%;
+	margin-right: 5%;
+}
+.num-percent,.num-percent-free {
+	width: 70%;
+    margin-left: 35%;
+	margin-top: 5%;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	font-size: 34px;
+	color: #c23531;
+	font-weight: 900;
+	font-family: "微软雅黑";
+}
+.num-percent-free {
+    color: #2f4554;
+}
+.down {
+    color: #008489 !important;
+}
+.alter-percent,.alter-percent-arrow {
+    margin-top: 10%;
+    font-size: 18px;
+    font-weight: 500;
+    color: #e64e1e;
+}
+.alter-percent-arrow {
+    font-weight: 900;
+    margin-left: 10%;
+}
+.select-collect {
+    margin-right: 30px;
+}
+.searchbar {
+    margin-top: -5px;
+}
+.table-collect {
+    margin-top: 1%;
+    width: 95%;
+}

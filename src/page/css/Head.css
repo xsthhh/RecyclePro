@@ -1,0 +1,55 @@
+.header {
+    height: 50px !important;
+    background-color: #008489 !important;
+}
+.logo {
+    height: 35px;
+    margin-top: 6px;
+    float: left;
+}
+.name {
+    font-family: '微软雅黑';
+    font-weight: 700;
+    font-size: 18px;
+    color: #ffffff;
+    height: 50px;
+    line-height: 50px;
+    float: left;
+}
+.set-logo {
+    height: 35px;
+    margin-top: 6px;
+    float: right;
+}
+.ad-container {
+    display: flex;
+    flex-direction: column;
+    float: right;
+    margin-top: 5px;
+    margin-left: 5px;
+    line-height: 20px;
+    color: #ffffff;
+}
+.ant-menu-item-selected {
+    background-color: #008489 !important;
+    color: #ffffff !important;
+}
+.ant-menu-item-selected a {
+    color: #ffffff !important;
+}
+.ant-menu-vertical .ant-menu-item:after, .ant-menu-vertical-left .ant-menu-item:after, .ant-menu-vertical-right .ant-menu-item:after, .ant-menu-inline .ant-menu-item:after {
+    border-right: 0px !important;
+}
+.ant-menu-item a:hover, .ant-menu-submenu-title:hover, .ant-menu-item:hover,.ant-menu-submenu-active{
+    color: #008489 !important;
+}
+.ant-menu-item-selected  a:hover {
+    color: #ffffff !important;
+}
+.headicon {
+    margin-left: 15px;
+    font-size: 16px;
+}
+.subsider {
+    margin-left: 25px;
+}

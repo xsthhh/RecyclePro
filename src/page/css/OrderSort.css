@@ -1,0 +1,38 @@
+#Chartforarea, #Chartsort {
+    height: 500px;
+	width: 75%;
+}
+#Chartday, #Chartweek {
+    height: 400px;
+	width: 50%;
+}
+.sub-name-ordersort {
+    width: 90px;
+	color: black;
+	border-bottom: 3px solid #008489;
+}
+.chart-box {
+    display: flex;
+    flex-direction: row;
+}
+.rank {
+    margin-left: 1%;
+    margin-top: 8.5%;
+}
+.isort, .iunsort {
+    font-size: 20px;
+    font-weight: 900;
+    margin-left: 30px;
+    color: #c23531;
+}
+.iunsort {
+    color: #2f4554 !important;
+}
+.irank {
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 15%;
+    margin-left: 5%;
+    color: #ff9800;
+    z-index: 1;
+}

@@ -1,0 +1,58 @@
+#user-age-chart {
+	height: 550px;
+	width: 80%;
+}
+#student-barchart, #student-flowerchart {
+	height: 550px;
+	width: 50%;
+}
+#student-flowerchart {
+    margin-left: -7%;
+}
+.sub-name-com {
+	width: 90px;
+	color: black;
+	border-bottom: 3px solid #008489;
+}
+.chart-container-com {
+	margin-top: 10px;
+	border: 1px solid #bbbbbb;
+	width: 70%;
+	height: 200px;
+	display: flex;
+	flex-direction: row;
+}
+.count-left-com {
+    width: 40%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+.cc-com {
+    width: 120%;
+    margin-top: 10%;
+}
+.mid-chart-com {
+	width: 60%;
+}
+.chart-for-sex {
+	margin-left: 25px;
+	width: 60%;
+}
+.lasttime-com, .lastdate-com {
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    margin-top: 15%;
+}
+.lastdate-com {
+    margin-top: 10%;
+    font-size: 20px;
+    font-family: "微软雅黑";
+    font-weight: 700;
+}
+.student-chart {
+    display: flex;
+    flex-direction: row;
+}

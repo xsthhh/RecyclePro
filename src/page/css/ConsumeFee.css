@@ -1,0 +1,9 @@
+#consumefee-chart {
+    height: 550px;
+	width: 80%;
+}
+.sub-name-consumefee {
+    width: 90px;
+	color: black;
+	border-bottom: 3px solid #008489;
+}
